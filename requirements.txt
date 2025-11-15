@@ -1,0 +1,12 @@
+nltk
+gensim
+numpy
+pandas
+orjson
+datasets
+transformers
+peft
+evaluate
+matplotlib
+rouge_score
+bert-score
