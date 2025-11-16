@@ -6,6 +6,5 @@ Apart from the files/folders within this sub-folder, also include:
   - Event-summariser-LoRA-v1
   - Ending-summariser-LoRA-v2
   - QA-loRA-v2
-  - stories_with_outlines_first3000.jsonl
     
 by copying them over from the main repo folder. Then, make sure you have followed the instructions in the main folder's README.
