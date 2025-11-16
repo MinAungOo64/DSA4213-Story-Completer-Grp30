@@ -1,5 +1,7 @@
 # DSA4213-Story-Completer-Grp30
-
+‘The Story Completer’— a double model pipeline process that takes in a short story, 
+followed by a user’s input on which specific part of the story to be edited, 
+to then output the modified event. Future steps: Allow the whole modified story to be regenerated, then scale it up to work on longer narratives.
 
 
 ## Installation guide
@@ -40,16 +42,16 @@ If you do not have a CUDA-capable GPU, install the CPU version instead:
 pip install torch torchvision torchaudio
 ```
 
-### 4. Install remaining dependencies
-Once PyTorch is installed, run:
+### 5. Main entry point to reproduce final results
+After installation, you can execute the main script with:
 ```shell
-pip install -r requirements.txt
+python Story_Completer.py
 ```
 
-### 5. After installation, head into the separate folders:
+### 6. To reproduce experimental results, head into the separate folders and follow their respective READMEs:
 1. Generator
 2. Summariser
-### to reproduce the results.
+
 
 
 
