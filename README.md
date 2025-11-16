@@ -46,8 +46,10 @@ Once PyTorch is installed, run:
 pip install -r requirements.txt
 ```
 
-### 5. Main entry point to reproduce final results
-After installation, you can execute the main script with:
-```shell
-python _____.py
-```
+### 5. After installation, head into the separate folders:
+1. Generator
+2. Summariser
+### to reproduce the results.
+
+
+
