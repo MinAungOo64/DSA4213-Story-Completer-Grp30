@@ -7,7 +7,7 @@ This folder contains the following:
 - Generator Training.ipynb
 
 #### The "Generator Data Augmentation.ipynb" file is used to generate the masked data
-#### The "Generator Training & Inference.ipynb" file is used to train and obtain the best model
+#### The "Generator Training.ipynb" file is used to train and obtain the best model
 #### The "Generator Inference.ipynb" file is used to test the best model on inference
 
 ## The following are packages required to run the Generator files
