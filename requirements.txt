@@ -10,3 +10,6 @@ evaluate
 matplotlib
 rouge_score
 bert-score
+tqdm
+collections
+torch
