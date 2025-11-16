@@ -53,6 +53,11 @@ After installation, you can execute the main script with:
 ```shell
 python Story_Completer.py
 ```
+NOTE: In case the script runs into error due to Generator Model: 'full_model_best'
+1. Navigate to `/Generator/full_model_best` in this repository.
+2. Download each raw file.
+3. Replace the corresponding files in your locally git-cloned folder of `full_model_best`.
+
 
 ### 6. To reproduce experimental results, head into the separate folders and follow their respective READMEs:
 1. Generator
