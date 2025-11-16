@@ -42,6 +42,12 @@ If you do not have a CUDA-capable GPU, install the CPU version instead:
 pip install torch torchvision torchaudio
 ```
 
+### 4. Install remaining dependencies
+Once PyTorch is installed, run:
+```shell
+pip install -r requirements.txt
+```
+
 ### 5. Main entry point to reproduce final results
 After installation, you can execute the main script with:
 ```shell
