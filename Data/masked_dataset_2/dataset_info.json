@@ -1,0 +1,20 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "mask_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target_text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
